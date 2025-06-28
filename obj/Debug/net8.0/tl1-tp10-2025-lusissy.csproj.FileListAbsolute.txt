@@ -1,0 +1,15 @@
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\obj\Debug\net8.0\tl1-tp10-2025-lusissy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\obj\Debug\net8.0\tl1-tp10-2025-lusissy.AssemblyInfoInputs.cache
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\obj\Debug\net8.0\tl1-tp10-2025-lusissy.AssemblyInfo.cs
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\obj\Debug\net8.0\tl1-tp10-2025-lusissy.csproj.CoreCompileInputs.cache
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\obj\Debug\net8.0\tl1-tp10-2025-lusissy.sourcelink.json
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\bin\Debug\net8.0\tl1-tp10-2025-lusissy.exe
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\bin\Debug\net8.0\tl1-tp10-2025-lusissy.deps.json
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\bin\Debug\net8.0\tl1-tp10-2025-lusissy.runtimeconfig.json
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\bin\Debug\net8.0\tl1-tp10-2025-lusissy.dll
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\bin\Debug\net8.0\tl1-tp10-2025-lusissy.pdb
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\obj\Debug\net8.0\tl1-tp10-2025-lusissy.dll
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\obj\Debug\net8.0\refint\tl1-tp10-2025-lusissy.dll
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\obj\Debug\net8.0\tl1-tp10-2025-lusissy.pdb
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\obj\Debug\net8.0\tl1-tp10-2025-lusissy.genruntimeconfig.cache
+C:\Users\Lulu\Documents\TALLER1\ssegundo parcial\tp10\tl1-tp10-2025-lusissy\obj\Debug\net8.0\ref\tl1-tp10-2025-lusissy.dll
