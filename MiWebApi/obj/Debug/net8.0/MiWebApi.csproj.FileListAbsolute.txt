@@ -1,0 +1,15 @@
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\obj\Debug\net8.0\MiWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\obj\Debug\net8.0\MiWebApi.AssemblyInfoInputs.cache
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\obj\Debug\net8.0\MiWebApi.AssemblyInfo.cs
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\obj\Debug\net8.0\MiWebApi.csproj.CoreCompileInputs.cache
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\obj\Debug\net8.0\MiWebApi.sourcelink.json
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\bin\Debug\net8.0\MiWebApi.exe
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\bin\Debug\net8.0\MiWebApi.deps.json
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\bin\Debug\net8.0\MiWebApi.runtimeconfig.json
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\bin\Debug\net8.0\MiWebApi.dll
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\bin\Debug\net8.0\MiWebApi.pdb
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\obj\Debug\net8.0\MiWebApi.dll
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\obj\Debug\net8.0\refint\MiWebApi.dll
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\obj\Debug\net8.0\MiWebApi.pdb
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\obj\Debug\net8.0\MiWebApi.genruntimeconfig.cache
+E:\TALLER2DOPARCIAL\tp10\tl1-tp10-2025-lusissy\MiWebApi\obj\Debug\net8.0\ref\MiWebApi.dll
